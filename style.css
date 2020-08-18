@@ -209,5 +209,5 @@ h3 {
     }
   }
   .rainbow-text {
-    animation: rainbow-text 1s infinite;
+    animation: rainbow-text 20s infinite;
   }
